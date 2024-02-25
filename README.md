@@ -1,13 +1,13 @@
 # CryptoNews
 
 Projet réalisé par BASTOS GOMES Helder, étudiant en M2 Sup de Vinci
-
 Ce projet découle du cours d'initiation à l'Intelligence Artificielle
 
-Pour lancer le script, vérifiez que vous avez ollama avec le model "openchat:7b-v3.5-q4_1" d'installé.
-
 # Installation
-<code>pip3 install -r requirements.txt</code>
+<code>pip3 install -r requirements.txt</code> </br>
+
+Pour lancer le script, vérifiez que vous avez <code>ollama</code> avec le model <code>openchat:7b-v3.5-q4_1</code> d'installé.
+
 
 # Lancement du projet
 <code>python3 main.py</code> </br>
