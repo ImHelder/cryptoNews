@@ -13,3 +13,7 @@ Pour lancer le script, vérifiez que vous avez <code>ollama</code> avec le model
 <code>python3 main.py</code> </br>
 En fonction du nombre d'articles et de la longueur de ceux-ci (et aussi de votre CPU/GPU), la durée d'exécution du script peut durer entre 3 et 10 minutes.
 Le scrip affiche dans la console le résumé de chaque article dès que celui-ci est disponible. Vous pouvez donc lire le premier résumé dès qu'il affiche le temps que les autres le soient.
+
+
+# Amélioration
+J'aimerai bien pouvoir envoyé un mail automatique, tous les jours à une certaines heures. Je ferai ça dans une V2
