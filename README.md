@@ -8,6 +8,8 @@ Ce projet découle du cours d'initiation à l'Intelligence Artificielle
 
 Pour lancer le script, vérifiez que vous avez <code>ollama</code> avec le model <code>openchat:7b-v3.5-q4_1</code> d'installé.
 
+Pour exécuter le script sur windows, changer cette ligne <code>from langchain.llms import Ollama</code> par <code>from langchain_community.llms import Ollama</code>
+
 
 # Lancement du projet
 <code>python3 main.py</code> </br>
