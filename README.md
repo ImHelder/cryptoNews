@@ -16,4 +16,4 @@ Le scrip affiche dans la console le résumé de chaque article dès que celui-ci
 
 
 # Amélioration
-J'aimerai bien pouvoir envoyé un mail automatique, tous les jours à une certaines heures. Je ferai ça dans une V2
+J'aimerai bien pouvoir envoyer un mail automatique, tous les jours à une certaines heures. Je ferai ça dans une V2
